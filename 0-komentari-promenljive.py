@@ -1,1 +1,1 @@
-print('Krecemo sa komentarima i promenljivama.')
+print('Krecemo sa komentarima i promenljivama')
