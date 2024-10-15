@@ -29,3 +29,20 @@ print( ime, prezime, email)
 auto = 'Mercedes' 
 AUTO = 'BMW'
 print(AUTO)
+
+##############################
+##  Dobra praksa imenovanja  ##
+##############################
+first_name = 'Sloba'
+firstName = 'Sloba'
+_first_name = 'Sloba'
+name_1 = 'Sloba'
+
+##############################
+##  Kako ne treba imenovati varijable  ##
+##############################
+# 1name = 'Sloba'
+# first-name = 'Sloba'
+# !name = 'Sloba'
+# first+name = 'Sloba'
+# first name = 'Sloba'
